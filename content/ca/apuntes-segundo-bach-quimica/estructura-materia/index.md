@@ -177,7 +177,7 @@ Té un espectre molt característic, inversament relacionat amb la intensitat, q
 
 La **incapacitat** de la **teoria clàssica** vigent a l'hora d'explicar la forma d'aquest espectre es coneix com a **catàstrofe ultraviolada**.
 
-**Max Planck** fou qui conseguí, el 1900, explicar l'espectre del cos negre, donant així **origen** a la **teoria quàntica**.
+**Max Planck** fou qui aconseguí, el 1900, explicar l'espectre del cos negre, donant així **origen** a la **teoria quàntica**.
 
 Aprèn més sobre la **radiació** de **cos negre** amb aquesta excel·lent **simulació**:
 
@@ -224,7 +224,7 @@ Consisteix en què el comportament dels **objectes quàntics** no pot ser descri
 
 A partir d'**experiments** de **difracció** d'**electrons**, **Louis de Broglie** va ser el primer que va proposar la següent **hipòtesi**:
 
-> Tota partícula de massa $m$ movient-se a una velocitat $v$ té associada una ona (*de matèria*) la longitud d'ona de la qual, $\lambda$, ve donada per
+> Tota partícula de massa $m$ movent-se a una velocitat $v$ té associada una ona (*de matèria*) la longitud d'ona de la qual, $\lambda$, ve donada per
 	$$
 	\lambda = \frac{h}{mv},
 	$$
@@ -236,7 +236,7 @@ En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/e
 	
 ### Principi d'incertesa de Heisenberg
 
-> Existeixen certs parells de magnituds físiques (aquelles el producto del qual tenen dimensions de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no poden ser determinades simultàniament amb total exactitud, ja que el producte de les seves incerteses ha de ser major o igual que $h/(4\pi) = \hbar/2$.
+> Existeixen certs parells de magnituds físiques (aquelles el producte del qual tenen dimensions de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no poden ser determinades simultàniament amb total exactitud, ja que el producte de les seves incerteses ha de ser major o igual que $h/(4\pi) = \hbar/2$.
 
 **Exemples** de tals magnituds són:
 	
@@ -262,7 +262,7 @@ Els **nombres quàntics** descriuen **valors** de **magnituds físiques** que es
 Per **descriure** completament l'**estat quàntic** d'un **electró** en un àtom necessitem **quatre nombres quàntics**, els quals tenen un significat orbital concret.
 
 #### Nombre quàntic principal $n$
-Ens dona el **mida** i l'**energia** de l'**orbital**. Pren valors naturals ($1\leq n$), com per exemple $n = 1,2,3,\dots$
+Ens dona la **mida** i l'**energia** de l'**orbital**. Pren valors naturals ($1\leq n$), com per exemple $n = 1,2,3,\dots$
 
 #### Nombre quàntic secundari $l$
 Ens dona l'**energia** i **forma** de l'**orbital**. Pot prendre els següents valors:
